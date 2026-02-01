@@ -1,0 +1,193 @@
+[
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11111",
+    "title": "Slow Cooker Lentil Bolognese",
+    "description": "A quick and healthy vegetarian pasta dish.",
+    "image": "lentil pasta",
+    "servings": 2,
+    "ingredients": [
+      { "name": "Pasta", "quantity": 200, "unit": "g" },
+      { "name": "Green Lentils", "quantity": 1, "unit": "cup" },
+      { "name": "Passata", "quantity": 1, "unit": "cup" },
+      { "name": "Vegetables", "quantity": 2, "unit": "cup" },
+      { "name": "Walnuts", "quantity": 0.5, "unit": "cup" }
+    ],
+    "instructions": [
+      "Peel and grate the carrot. Finely chop the red onion, mushrooms and walnuts. Add all of these to the slow cooker.",
+      "Add the remaining ingredients and mix well to combine.",
+      "Cook on high for about 4 1/2 hours, or until cooked to your liking.",
+      "Serve with spaghetti, if desired."
+    ],
+    "diet": "Vegeterian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11112",
+    "title": "Chicken Stir Fry",
+    "description": "High-protein chicken stir fry.",
+    "image": "chicken",
+    "servings": 3,
+    "ingredients": [
+      { "name": "Chicken Breast", "quantity": 500, "unit": "g" },
+      { "name": "Soy Sauce", "quantity": 3, "unit": "tbsp" },
+      { "name": "Tomato Paste", "quantity": 2, "unit": "tbsp" },
+      { "name": "Garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "Bell Pepper", "quantity": 1, "unit": "pc" },
+      { "name": "Onion", "quantity": 1, "unit": "pc" }
+    ],
+    "instructions": [
+      "Make the stir-fry sauce by whisking all sauce ingredients together.",
+      "Cook the chicken until lightly browned, then remove from pan.",
+      "Cook the vegetables until tender-crisp.",
+      "Add chicken back, pour sauce, and stir-fry until coated."
+    ],
+    "diet": "Non-Vegetarian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11113",
+    "title": "Tiramisu",
+    "description": "Best dessert ever.",
+    "image": "tiramisu",
+    "servings": 4,
+    "ingredients": [
+      { "name": "Ladyfingers", "quantity": 24, "unit": "pcs" },
+      { "name": "Mascarpone", "quantity": 1, "unit": "cup" },
+      { "name": "Coffee", "quantity": 1, "unit": "cup" },
+      { "name": "Heavy Whipped Cream", "quantity": 1, "unit": "cup" },
+      { "name": "Granulated Sugar", "quantity": 0.5, "unit": "cup" },
+      { "name": "Vanilla Extract", "quantity": 1, "unit": "tsp" },
+      { "name": "Cocoa Powder", "quantity": 2, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Mix creamy filling by beating mascarpone, cream, sugar, and vanilla.",
+      "Quickly dip ladyfingers into coffee.",
+      "Layer ladyfingers and mascarpone mixture.",
+      "Repeat layers and dust with cocoa powder."
+    ],
+    "diet": "Vegeterian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11114",
+    "title": "Beef Tacos",
+    "description": "Spicy and savory beef tacos.",
+    "image": "beef tacos",
+    "servings": 4,
+    "ingredients": [
+      { "name": "Ground Beef", "quantity": 500, "unit": "g" },
+      { "name": "Taco Shells", "quantity": 8, "unit": "pcs" },
+      { "name": "Cheddar Cheese", "quantity": 1, "unit": "cup" },
+      { "name": "Lettuce", "quantity": 1, "unit": "cup" },
+      { "name": "Tomato", "quantity": 1, "unit": "pc" },
+      { "name": "Sour Cream", "quantity": 0.5, "unit": "cup" }
+    ],
+    "instructions": [
+      "Cook ground beef with seasoning until browned.",
+      "Fill taco shells with beef, lettuce, tomato, and cheese.",
+      "Top with sour cream and serve immediately."
+    ],
+    "diet": "Non-Vegetarian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11115",
+    "title": "Vegetable Curry",
+    "description": "A hearty and spicy vegetable curry.",
+    "image": "vegetable curry",
+    "servings": 4,
+    "ingredients": [
+      { "name": "Potatoes", "quantity": 2, "unit": "pcs" },
+      { "name": "Carrots", "quantity": 2, "unit": "pcs" },
+      { "name": "Coconut Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Curry Powder", "quantity": 2, "unit": "tbsp" },
+      { "name": "Spinach", "quantity": 2, "unit": "cups" }
+    ],
+    "instructions": [
+      "Cook potatoes and carrots until tender.",
+      "Add coconut milk and curry powder, simmer for 10 minutes.",
+      "Add spinach and cook until wilted, then serve."
+    ],
+    "diet": "Vegeterian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11116",
+    "title": "Pancakes",
+    "description": "Fluffy breakfast pancakes.",
+    "image": "pancakes",
+    "servings": 3,
+    "ingredients": [
+      { "name": "Flour", "quantity": 1, "unit": "cup" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Egg", "quantity": 1, "unit": "pc" },
+      { "name": "Baking Powder", "quantity": 1, "unit": "tsp" },
+      { "name": "Butter", "quantity": 2, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Mix flour, milk, egg, and baking powder to make batter.",
+      "Heat a pan and cook pancakes until golden brown on both sides.",
+      "Serve with butter or syrup."
+    ],
+    "diet": "Vegeterian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11117",
+    "title": "Grilled Salmon",
+    "description": "Healthy grilled salmon fillet.",
+    "image": "grilled salmon",
+    "servings": 2,
+    "ingredients": [
+      { "name": "Salmon Fillets", "quantity": 2, "unit": "pcs" },
+      { "name": "Lemon", "quantity": 1, "unit": "pc" },
+      { "name": "Olive Oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Salt", "quantity": 0.5, "unit": "tsp" },
+      { "name": "Black Pepper", "quantity": 0.25, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Preheat grill to medium heat.",
+      "Brush salmon with olive oil, lemon juice, salt, and pepper.",
+      "Grill salmon 5-6 minutes each side or until cooked through."
+    ],
+    "diet": "Non-Vegetarian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11118",
+    "title": "Caprese Salad",
+    "description": "Fresh tomato and mozzarella salad.",
+    "image": "caprese salad",
+    "servings": 2,
+    "ingredients": [
+      { "name": "Tomato", "quantity": 2, "unit": "pcs" },
+      { "name": "Mozzarella", "quantity": 1, "unit": "cup" },
+      { "name": "Basil Leaves", "quantity": 10, "unit": "pcs" },
+      { "name": "Olive Oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Salt", "quantity": 0.25, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Slice tomatoes and mozzarella.",
+      "Arrange on a plate with basil leaves.",
+      "Drizzle olive oil and sprinkle with salt before serving."
+    ],
+    "diet": "Vegeterian"
+  },
+  {
+    "id": "A6F1C6D0-6C2B-4F6A-9B88-8F34C5A11119",
+    "title": "Vegan Chickpea Pasta",
+    "description": "Protein-rich pasta made with chickpeas and vegetables.",
+    "image": "chickpea pasta",
+    "servings": 3,
+    "ingredients": [
+      { "name": "Chickpea Pasta", "quantity": 250, "unit": "g" },
+      { "name": "Cherry Tomatoes", "quantity": 1, "unit": "cup" },
+      { "name": "Spinach", "quantity": 2, "unit": "cups" },
+      { "name": "Garlic", "quantity": 2, "unit": "cloves" },
+      { "name": "Olive Oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Nutritional Yeast", "quantity": 2, "unit": "tbsp" },
+      { "name": "Salt", "quantity": 0.25, "unit": "tsp" },
+      { "name": "Black Pepper", "quantity": 0.25, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Cook chickpea pasta according to package instructions.",
+      "Sauté garlic in olive oil, then add cherry tomatoes and cook for 3 minutes.",
+      "Add spinach and cook until wilted.",
+      "Mix in cooked pasta, season with salt and black pepper, and sprinkle nutritional yeast before serving."
+    ],
+    "diet": "Vegan"
+  }
+]
