@@ -48,7 +48,7 @@ struct RecipeCardView: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
-            // Image
+
             Image(recipe.image)
                 .resizable()
                 .scaledToFit()
@@ -56,7 +56,6 @@ struct RecipeCardView: View {
                 .frame(maxWidth: .infinity)
                 .clipped()
             
-            // Gradient overlay
             LinearGradient(
                 colors: [Color.black.opacity(0), Color.black.opacity(0.7)],
                 startPoint: .top,
@@ -64,7 +63,7 @@ struct RecipeCardView: View {
             )
             .frame(height: height * 0.4)
             
-            // Title
+
             Text(recipe.title)
                 .font(.headline)
                 .foregroundStyle(.white)
