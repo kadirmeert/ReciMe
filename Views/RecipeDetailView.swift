@@ -247,7 +247,7 @@ extension View {
             "Cook on high for 4.5 hours.",
             "Serve with spaghetti."
         ],
-        diet: "Vegetarian" // fixed typo
+        diet: "Vegetarian" 
     )
     
     Group {
