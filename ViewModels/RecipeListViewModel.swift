@@ -9,6 +9,7 @@ import SwiftUI
 import Foundation
 import Combine
 
+@MainActor
 final class RecipeListViewModel: ObservableObject {
     @Published var recipes: [Recipe] = []
     @Published var searchText: String = ""
