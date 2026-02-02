@@ -254,11 +254,5 @@ extension View {
         NavigationStack {
             RecipeDetailView(recipe: sampleRecipe)
         }
-        .preferredColorScheme(.light)
-
-        NavigationStack {
-            RecipeDetailView(recipe: sampleRecipe)
-        }
-        .preferredColorScheme(.dark)
     }
 }

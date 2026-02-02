@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Recipes: View {
+struct RecipesView: View {
     @StateObject private var viewModel = RecipeListViewModel()
     
     private let columns = [
@@ -84,10 +84,5 @@ struct RecipeCardView: View {
 
 // MARK: - Preview
 #Preview {
-    Group {
-        Recipes()
-            .preferredColorScheme(.light)
-        Recipes()
-            .preferredColorScheme(.dark)
-    }
+   RecipesView()
 }

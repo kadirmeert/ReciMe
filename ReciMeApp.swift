@@ -15,7 +15,7 @@ struct ReciMeApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView {
-                Recipes()
+                RecipesView()
                     .navigationBarHidden(true)
             }
             .navigationViewStyle(StackNavigationViewStyle())
