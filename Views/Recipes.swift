@@ -33,7 +33,8 @@ struct Recipes: View {
                 .padding(.vertical, 16)
             }
             .navigationTitle("Recipes")
-            .searchable(text: $viewModel.searchText)
+            .searchable(text: $viewModel.searchText, placement: .automatic,
+                        prompt: "Search by title, diet, servings or ingredients")
             .navigationDestination(for: Recipe.self) { recipe in
                 RecipeDetailView(recipe: recipe)
             }
