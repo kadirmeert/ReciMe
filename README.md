@@ -47,7 +47,6 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern to ensure a clea
 ## ⚠️ Known Limitations
 
 - **Backend:** No live backend integration (currently static JSON/Mock).
-- **Search:** Basic case-insensitive search functionality.
 - **Images:** Assets are currently static; remote image fetching/caching is planned for future releases.
 
 ## 📦 Installation
